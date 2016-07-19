@@ -1,0 +1,16 @@
+a.) Explain in your own words the term "single-threaded"
+
+:
+for me the single threaded is the process/processing of one command at a time that means the program will only run a single task at a time 
+
+
+b.) In your own words, what is "event driven architecture"
+
+
+c.) What are the benefits of a javascript module
+
+
+d.) Give two implementations of javascript module
+
+
+e.) In you own words, what is a module bundler.
